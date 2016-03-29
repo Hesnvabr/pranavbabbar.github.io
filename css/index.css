@@ -1,0 +1,11 @@
+h1 {
+font-family: arial;font-size: 16;color: green
+}
+footer {
+	color: grey;
+	background-color: black;
+}
+nav a{
+	color: blue;
+	background-color: grey;
+}
