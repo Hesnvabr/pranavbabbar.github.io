@@ -2,7 +2,10 @@
 GENERAL
 **********************/
 h1 {
-font-family: arial;font-size: 16;color: green
+font-family: sans-serif;
+font-size: 5em;
+margin: 15px 0;
+color: black
 }
 footer {
 	color: grey;
@@ -35,13 +38,17 @@ header {
 	border-color: #599a68;
 }
 /* logo text */
-h1, h2 {
+h2 {
 	color: #fff;
 }
 /* nav link*/
 nav a.selected, nav a:hover {
 	color: #32673f;
 }
+/*h1 {
+	font-family: 'Changa One', sans-serif;
+}*/
+
 /* site body */
 body {
 	background-color: #fff;  
